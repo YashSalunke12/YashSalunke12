@@ -1,11 +1,23 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)]
 <h1 align="center">Hi 👋, I'm Yash Salunke</h1>
 <h3 align="center">A passionate frontend developer!</h3>
+
+<hr/>
+<div align="center">
+
+![GitHub metrics](https://metrics.lecoq.io/YashSalunke12)
+
+</div>
+
+<hr/>
+
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsalunke12&label=Profile%20views&color=0e75b6&style=flat" alt="yashsalunke12" /> </p>
 
 <p align="left"> <a href="https://twitter.com/yashtwt12" target="blank"><img src="https://img.shields.io/twitter/follow/yashtwt12?logo=twitter&style=for-the-badge" alt="yashtwt12" /></a> </p>
+
+
 
 - 🌱 I’m currently learning **JavaScript**
 
