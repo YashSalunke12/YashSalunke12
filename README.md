@@ -35,9 +35,9 @@ Trophies and Statistics
 </h3>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSalunke12&theme=vision-friendly-dark&langs_count=7&layout=compact" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YashSalunke12&theme=vision-friendly-dark&langs_count=7&layout=compact" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=YashSalunke12&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Yashsalunke12&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yashsalunke12&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D" />
     <p align="center"> <img src="https://raw.githubusercontent.com/Yashsalunke12/Yashsalunke12/output/github-contribution-grid-snake.svg" width="700"/> </p>
 </p>
 <hr/>
