@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Yash
+
+- 🌱 I’m currently learning `JavaScript`
+
+[![An image of @yaash_12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yaash_12)](https://holopin.io/@yaash_12)
 
 <!--
 **YashSalunke12/YashSalunke12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
