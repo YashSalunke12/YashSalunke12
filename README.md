@@ -9,7 +9,6 @@
 ![border-seperator](assets/borderseparator.gif) 
 
 
-```
 
 [![An image of @yaash_12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yaash_12)](https://holopin.io/@yaash_12)
 
