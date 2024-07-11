@@ -1,5 +1,16 @@
 ![](https://komarev.com/ghpvc/?username=YashSalunke12)
 
+<div style="text-align: center;"> 
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Yash%F0%9F%91%8B;Let's+Connect!"/>
+</div>
+
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Yashtwt12)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yashsalunke12/)
+![border-seperator](assets/borderseparator.gif) 
+
+
+```
+
 [![An image of @yaash_12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yaash_12)](https://holopin.io/@yaash_12)
 
 <!--
